@@ -1,4 +1,4 @@
 # JHTTPServer
 A HTTP server in Java.
 
-(Coming...)
+(Still on development...)
